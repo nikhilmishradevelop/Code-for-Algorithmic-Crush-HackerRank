@@ -29,7 +29,7 @@ int a,b,*p,i,j;
 
 free(p);
 
-    printf("%ld ",temp);
+    printf("%ld Hello",temp);
     
     
     return 0;
